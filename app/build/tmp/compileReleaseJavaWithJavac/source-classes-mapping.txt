@@ -1,0 +1,17 @@
+com/bob/book_listings_sphi_app/Book.java
+ com.bob.book_listings_sphi_app.Book
+ com.bob.book_listings_sphi_app.Book$1
+com/bob/book_listings_sphi_app/BuildConfig.java
+ com.bob.book_listings_sphi_app.BuildConfig
+com/bob/book_listings_sphi_app/BookLoader.java
+ com.bob.book_listings_sphi_app.BookLoader
+com/bob/book_listings_sphi_app/BookAdapter.java
+ com.bob.book_listings_sphi_app.BookAdapter
+com/bob/book_listings_sphi_app/SearchActivity.java
+ com.bob.book_listings_sphi_app.SearchActivity
+ com.bob.book_listings_sphi_app.SearchActivity$1
+com/bob/book_listings_sphi_app/ResultsActivity.java
+ com.bob.book_listings_sphi_app.ResultsActivity
+ com.bob.book_listings_sphi_app.ResultsActivity$1
+ com.bob.book_listings_sphi_app.ResultsActivity$2
+ com.bob.book_listings_sphi_app.ResultsActivity$3
